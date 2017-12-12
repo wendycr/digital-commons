@@ -37,11 +37,11 @@
                 </timestamp>
                 
                 <depositor>
-                    <depositor_name>YOUR NAME</depositor_name>
+                    <depositor_name>ORGANIZATION REGISTERING DOIS</depositor_name>
                     <email_address>YOUR EMAIL</email_address>
                 </depositor>
                 
-                <registrant>YOUR INSTITUTION</registrant>
+                <registrant>ORGANIZATION THAT OWNS THE INFO</registrant>
             </head>
             
             <body>
