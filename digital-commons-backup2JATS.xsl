@@ -14,7 +14,7 @@
             <xsl:if test="fulltext-url !=''">
             <xsl:if test="state ='published'">
                             
-        <!--Note that a non-English publishcation will need a change in the lang value https://jats.nlm.nih.gov/publishing/tag-library/0.4/n-frj0.html-->
+        <!--Note that a non-English publication will need a change in the lang value https://jats.nlm.nih.gov/publishing/tag-library/0.4/n-frj0.html-->
         
         <!--<xsl:result-document method="xml" href="{translate(submission-path,'/','-')}.xml" >-->
                     <xsl:result-document method="xml" href="{articleid}.xml" >
